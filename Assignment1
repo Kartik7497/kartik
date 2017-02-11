@@ -1,0 +1,35 @@
+<html>
+<head>
+<title>Web page</title>
+</head>
+<body>
+<h1>Welcome</h1>
+<h3><marquee>This is web page</marquee></h3>
+<hr>
+<img src="logo.jpg">
+<table border="1">
+<tr>
+<th>Name</th><th>Github</th><th>Batch</th>
+</tr>
+<tr>
+<td>Kahish</td><td>kash25</td><td>a2</td>
+</tr>
+<tr>
+<td>Kartik</td><td>kartik7497</td><td>a2</td>
+</tr>
+<tr>
+<td>Aakash</td><td>aakash12</td><td>a2</td>
+
+</tr>
+</table>
+
+<a href="https://github.com/KASH25/web-development">Github</a>
+<b><i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kashish</i></b>
+
+<ol>
+<li>Kashish</li>
+<li>Kartik</li>
+<li>Asmita</li>
+<li>Lucky</li>
+</ol>
+</html>
